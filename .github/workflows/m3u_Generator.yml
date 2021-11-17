@@ -42,15 +42,27 @@ jobs:
           pwd
           chmod +x autorun.sh
           ./autorun.sh
-        
-      - name: git add
-        run: |
-          git add -A
-          ls -la 
+               
           
-      - name: commit & push
-        run: |
-          git commit -m "links are updated"
-          git push
-          
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date '+%Y-%m-%d')"
+
+      - name: create workflow artifact #this is created, so if theres an error, you can look back at previous yml
+        uses: actions/upload-artifact@v2
+        with:
+         name: workflow_${{ steps.date.outputs.date }}
+         path: .github/workflows/m3u8_converter.yml
+       
+      - name: Commit All Files
+        uses: zwaldowski/git-commit-action@v1
+        with:
+             commit_message: Updated by Bot - ${{ steps.date.outputs.date }}
+             working_directory: .
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.scrapper_token }}
+          branch: ${{ github.ref }}
           
