@@ -1,209 +1,218 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
+ABC News | ▶️ Live YouTube | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-News 12 New York | English | https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj |
+News 12 New York | ▶️ Live YouTube | https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
 
-Insomniac | Entertainment | |
+Insomniac | ▶️ Live YouTube | |
 https://www.youtube.com/channel/UCr45VhwCBYwMfdN-gz7W_OA/live
 
-Sky News | News | |
+Sky News | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
-Best Shuffle Dance Music 2021 | Entertainment | |
+Best Shuffle Dance Music 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=qWf-FPFmVw0
 
-Kral TV | Music | |
+Kral TV | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=88tf0H1ycDU
 
-Kral Pop TV | Music | |
+Kral Pop TV | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=dEHMR7Qpthw
 
-Rodos Palladium Beach Live | Livecam | |
+Rodos Palladium Beach Live | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=drhmo4XSVYA
 
-Alternative Radio | Radio | http://3.bp.blogspot.com/-4CDRDYQPlZo/UMsFyQQCy0I/AAAAAAAANLc/-8LXzSkTdsA/s1600/Alternative-Music-Logo-PNG.png |
+Alternative Radio | ▶️ Live YouTube | http://3.bp.blogspot.com/-4CDRDYQPlZo/UMsFyQQCy0I/AAAAAAAANLc/-8LXzSkTdsA/s1600/Alternative-Music-Logo-PNG.png |
 https://www.youtube.com/watch?v=5X18D-EbjUc
 
-Best Suffle Dance | Radio | http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png |
+Best Suffle Dance | ▶️ Live YouTube | http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png |
 https://www.youtube.com/watch?v=qWf-FPFmVw0
 
-XDeep Club-Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - ... | Music | |
+XDeep Club-Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - ... | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=YsBe9BFIjBs
 
-Chillout Lounge - Calm & Relaxing Background Music | Music | |
+Chillout Lounge - Calm & Relaxing Background Music | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=9UMxZofMNbA
 
-PJ Masks | Kids | |
+PJ Masks | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=6E-BS0wpPQk
 
-My Little Pony | Kids | |
+My Little Pony | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=6Vh5dg6eCnY
 
-Ben and Holly's Little Kingdom | Kids | |
+Ben and Holly's Little Kingdom | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=q1Fsyb9Kj7E
 
-DW News | International News | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj |
+DW News | ▶️ Live YouTube | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
 
-Sky News | International News | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj |
+Sky News | ▶️ Live YouTube | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 
-GBNews | International News | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj |
+GBNews | ▶️ Live YouTube | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
 
-Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
+Al Jazeera English | ▶️ Live YouTube | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
 
-Anjunadeep Radio - Deep House, Chill, House, Progressive | Radio | |
+Anjunadeep Radio - Deep House, Chill, House, Progressive | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=D4MdHQOILdw    
 
-Anjunadeep Radio - Trance and Progressive | Radio | |
+Anjunadeep Radio - Trance and Progressive | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=IvuwTft-0cM    
 
-Deep House Radio | Radio | |
+Deep House Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=5qky3L2Q6G4    
 
-Uplifting Trance Radio | Radio | |
+Uplifting Trance Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=WYetg3AuLE4    
 
-Euphoric & Uplifting Trance Radio | Radio | |
+Euphoric & Uplifting Trance Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=A5sUa0bNRj8    
 
-Vocal Trance Radio | Radio | |
+Vocal Trance Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=DPXQG8S9Xwc    
 
-Chill Radio | Radio | |
+Chill Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=21qNxnCS8WU
 
-City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Electro Remix 2021 | Music | |
+City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Electro Remix 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=2P2AGaDbmXQ
 
-City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Tomorrowland 2021 | Music | |
+City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Tomorrowland 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=freuiC0nuKQ
 
-The Good Life Radio - Best Relax House, Chillout, Study, Running, Gym, Happy Music | Music | |
+The Good Life Radio - Best Relax House, Chillout, Study, Running, Gym, Happy Music | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=36YnV9STBqc
 
-HQ - Bass Music :speaker:CAR BASS MUSIC 2021 :fire: BEST EDM, BOUNCE, ELECTRO HOUSE 2021 | Music | |
+HQ - Bass Music :speaker:CAR BASS MUSIC 2021 :fire: BEST EDM, BOUNCE, ELECTRO HOUSE 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=FM6MKgVcfyo
 
-A State Of Trance Radio @A State Of Trance | Music | |
+A State Of Trance Radio @A State Of Trance | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=5lMmnfVylEE
 
-SunMusic - NEW PARTY MIX 2021 :boom:TOMORROWLAND 2021 | Music | |
+SunMusic - NEW PARTY MIX 2021 :boom:TOMORROWLAND 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=3QXIXYEBH4c
 
-Tomorrowland - One World Radio | Music | |
+Tomorrowland - One World Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=DY_rFed96mg
 
-Late Night Lounge - Chillout House Background Music - Study, Work, Deep Focus, Relax, Car Music | Music | |
+Late Night Lounge - Chillout House Background Music - Study, Work, Deep Focus, Relax, Car Music | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=QBjYQhhmzO8
 
-Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, "Tropical Birds" By Tim Janis | Music | |
+Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, "Tropical Birds" By Tim Janis | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=U-sPrE84G0A
 
-Beautiful Relaxing Music Combined With Beautiful 4K Quality • Relax, Sleep, Meditation, Study, Yoga | Music | |
+Beautiful Relaxing Music Combined With Beautiful 4K Quality • Relax, Sleep, Meditation, Study, Yoga | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=HMnatoiMdjA
 
-Kitten Academy Livestream | Entertainment | |
+Kitten Academy Livestream | ▶️ Live YouTube | |
 https://www.youtube.com/channel/UC83RKJs4eKHVE9v0YUyqzgg/live
 
-LOFI MUSIC LIVE 24/7 | LOFI | https://yt3.ggpht.com/ytc/AAUvwnhGIymQGp3jRMECbTCBSRAUqi8sKbATpWowQG44CA=s48-c-k-c0x00ffffff-no-rj |
+LOFI MUSIC LIVE 24/7 | ▶️ Live YouTube | https://yt3.ggpht.com/ytc/AAUvwnhGIymQGp3jRMECbTCBSRAUqi8sKbATpWowQG44CA=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=5qap5aO4i9A
 
-WB Kids live | Kids | |
+WB Kids live | ▶️ Live YouTube | |
 https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
 
-DC Kids live | Kids | |
+DC Kids live | ▶️ Live YouTube | |
 https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live
 
-Elysium Resort & Spa Live | Webcam | |
+Elysium Resort & Spa Live | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=V513W2TVk50
 
-Anjunadeep Radio - Deep House, Chill, House, Progressive | Radio | |
+Anjunadeep Radio - Deep House, Chill, House, Progressive | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=D4MdHQOILdw    
 
-Anjunadeep Radio - Trance and Progressive | Radio | |
+Anjunadeep Radio - Trance and Progressive | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=IvuwTft-0cM    
 
-Deep House Radio | Radio | |
+Deep House Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=5qky3L2Q6G4    
 
-Uplifting Trance Radio | Radio | |
+Uplifting Trance Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=WYetg3AuLE4    
 
-Euphoric & Uplifting Trance Radio | Radio | |
+Euphoric & Uplifting Trance Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=A5sUa0bNRj8    
 
-Vocal Trance Radio | Radio | |
+Vocal Trance Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=DPXQG8S9Xwc    
 
-Chill Radio | Radio | |
+Chill Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=21qNxnCS8WU
 
-City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Electro Remix 2021 | Music | |
+City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Electro Remix 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=2P2AGaDbmXQ
 
-City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Tomorrowland 2021 | Music | |
+City Gym - Alok, Alan Walker, Dimitri Vegas & Like Mike - Tomorrowland 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=freuiC0nuKQ
 
-The Good Life Radio - Best Relax House, Chillout, Study, Running, Gym, Happy Music | Music | |
+The Good Life Radio - Best Relax House, Chillout, Study, Running, Gym, Happy Music | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=36YnV9STBqc
 
-HQ - Bass Music :speaker:CAR BASS MUSIC 2021 :fire: BEST EDM, BOUNCE, ELECTRO HOUSE 2021 | Music | |
+HQ - Bass Music :speaker:CAR BASS MUSIC 2021 :fire: BEST EDM, BOUNCE, ELECTRO HOUSE 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=FM6MKgVcfyo
 
-A State Of Trance Radio @A State Of Trance | Music | |
+A State Of Trance Radio @A State Of Trance | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=5lMmnfVylEE
 
-SunMusic - :boom:TOMORROWLAND 2021 | Music | |
+SunMusic - :boom:TOMORROWLAND 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=16EbWxsG9ao
 
-Tomorrowland - One World Radio | Music | |
+Tomorrowland - One World Radio | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=DY_rFed96mg
 
-N&T Party - HOT EDM Party Dance Club Remix 2021 ♫ Best Shuffle Dance Music Video ♫ New Shuffle Dance 2021 | Music | |
+N&T Party - HOT EDM Party Dance Club Remix 2021 ♫ Best Shuffle Dance Music Video ♫ New Shuffle Dance 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=riQUWTQffaw
 
-N&T Party - Party Dance Club Remix 2021 ♫ Best Shuffle Dance Party Video Mix ♫ New EDM Dance Charts Songs | Music | |
+N&T Party - Party Dance Club Remix 2021 ♫ Best Shuffle Dance Party Video Mix ♫ New EDM Dance Charts Songs | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=lIzqiD0x0Xo
 
-Late Night Lounge - Chillout House Background Music - Study, Work, Deep Focus, Relax, Car Music | Music | |
+Late Night Lounge - Chillout House Background Music - Study, Work, Deep Focus, Relax, Car Music | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=QBjYQhhmzO8
 
-ChillYourMind - Chillout Music, Summer Music, Chill House, Deep House, Summer Mix 2021 | Music | |
+ChillYourMind - Chillout Music, Summer Music, Chill House, Deep House, Summer Mix 2021 | ▶️ Live YouTube | |
 https://www.youtube.com/watch?v=DquKMopzJEY
 
-YUMMY FOOD HACKS AND GENIUS KITCHEN TRICKS | Information | https://i.ytimg.com/vi/-6whl_raMH8/maxresdefault.jpg |
+YUMMY FOOD HACKS AND GENIUS KITCHEN TRICKS | ▶️ Live YouTube | https://i.ytimg.com/vi/-6whl_raMH8/maxresdefault.jpg |
 https://www.youtube.com/watch?v=-6whl_raMH8
 
-Queen House - 24/7 Live Radio | Music | https://i.ytimg.com/vi/o6zMydCMvrU/maxresdefault.jpg |
+Queen House - 24/7 Live Radio | ▶️ Live YouTube | https://i.ytimg.com/vi/o6zMydCMvrU/maxresdefault.jpg |
 https://www.youtube.com/watch?v=ObeaiDzkUqQ
 
-PAW Patrol MIGHTY PUPS MARATHON | Kids | https://i.ytimg.com/vi/qI0FebLJBhw/maxresdefault.jpg |
+PAW Patrol MIGHTY PUPS MARATHON | ▶️ Live YouTube | https://i.ytimg.com/vi/qI0FebLJBhw/maxresdefault.jpg |
 https://www.youtube.com/watch?v=qI0FebLJBhw
 
-Power Rangers Super Megaforce Full Season | Kids | https://images-na.ssl-images-amazon.com/images/I/91D+SqAVLAL._RI_.jpg |
+Power Rangers Super Megaforce Full Season | ▶️ Live YouTube | https://images-na.ssl-images-amazon.com/images/I/91D+SqAVLAL._RI_.jpg |
 https://www.youtube.com/watch?v=k7sAwEeVp98
 
-Peppa Pig Live! Giant Peppa and More! | Kids | https://i.ytimg.com/vi/et7HEDpsZEs/maxresdefault.jpg |
+Peppa Pig Live! Giant Peppa and More! | ▶️ Live YouTube | https://i.ytimg.com/vi/et7HEDpsZEs/maxresdefault.jpg |
 https://www.youtube.com/watch?v=zUtWkVGGJNQ
 
-Oddbods Full Episode 24/7 | Kids | https://i.ytimg.com/vi/MzVmd5aGLhc/maxresdefault.jpg |
-https://www.youtube.com/watch?v=MzVmd5aGLhc~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+Oddbods Full Episode 24/7 | ▶️ Live YouTube | https://i.ytimg.com/vi/MzVmd5aGLhc/maxresdefault.jpg |
+https://www.youtube.com/watch?v=MzVmd5aGLhc
 
-ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
-https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
-
-News 12 New York | English | https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
-
-Insomniac | Entertainment | |
+Insomniac | ▶️ Live YouTube | |
 https://www.youtube.com/channel/UCr45VhwCBYwMfdN-gz7W_OA/live
 
+COVID-19 Stats | ▶️ Live YouTube | https://i.ytimg.com/vi/NMre6IAAAiU/maxresdefault.jpg |
+https://www.youtube.com/watch?v=NMre6IAAAiU
 
+NCS Music | ▶️ Live YouTube | https://i.ytimg.com/vi/7tNtU5XFwrU/maxresdefault.jpg |
+https://www.youtube.com/watch?v=7tNtU5XFwrU
+
+Lofi Girl | ▶️ Live YouTube | https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault.jpg |
+https://www.youtube.com/watch?v=5qap5aO4i9A
+
+Talking Tom | ▶️ Live YouTube | https://i.ytimg.com/vi/2PeFhZg-Ci4/maxresdefault.jpg |
+https://www.youtube.com/watch?v=2PeFhZg-Ci4
+
+Cocomelon | ▶️ Live YouTube | https://i.ytimg.com/vi/NXFR5Tx0D40/maxresdefault.jpg |
+https://www.youtube.com/watch?v=NXFR5Tx0D40
+
+Ben 10 | ▶️ Live YouTube | https://i.ytimg.com/vi/Tzfp-MaU63M/maxresdefault.jpg |
+https://www.youtube.com/watch?v=Tzfp-MaU63M
