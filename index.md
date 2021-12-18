@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bitsbb01/YT_to_m3u/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1 align="center"> YouTube_to_m3u </h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Add more channels
+Edit `youtube_channel_info.txt` to add your favourite YouTube livestreams
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Usage
+Paste this URL: `https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitsbb01/YT_to_m3u/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
