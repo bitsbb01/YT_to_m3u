@@ -11,7 +11,7 @@
 
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765438/ei/nmUWZuHnObWKkucPosqW2A8/ip/20.81.159.101/id/VL_ac2t5V5c.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51138687/txs/51138683%2C51138684%2C51138685%2C51138686%2C51138687/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f05o0pS8_AHK67EKv7PmAPX0y2PDyqlJqoLjKTFNH_D84AZM8QVfkA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANyVUu9Y3tApiXpIJTqudbGYMQXu94InEsIzmB6W_ec_AiA26Blhzqb1CLfbg8w86F8fmSIeI6pQIUHO7rJJrZ7Ysw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", News 12 New York
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765440/ei/oGUWZreVILGokucPt7CD2A8/ip/20.81.159.101/id/qWf-FPFmVw0.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2uGgVRWz3NDJRCpqmSqT9GslI5zwMKQC_CmpNrWoJTYMZaioIDRVA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgI3yT-WYvK8n2H1aVMriDcgBPl6WXGdAeGKICYHf2r8oCIBxJtvHDkfnRPM5NqtS7dvQUtPf6XEoUlGGgUFehMpi3/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Kral TV
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
@@ -32,19 +32,19 @@ https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Rodos Palladium Beach Live
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765441/ei/oWUWZu--K42UkucPsYWskA4/ip/20.81.159.101/id/drhmo4XSVYA.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129849/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6rSLtDrCh1Io8rjFjggA0vL71DKQyClBDmVC5P7WUrAayWlH-vrBBmD/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJp4IleCgd_J5Sa4ScXlnWFxxoOpMFt4YRrzAXeIPV2ZAiEAnNIXctYi7twGro3G0y4lWft5AAgqG6SBqsJEXbqHiB4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="http://3.bp.blogspot.com/-4CDRDYQPlZo/UMsFyQQCy0I/AAAAAAAANLc/-8LXzSkTdsA/s1600/Alternative-Music-Logo-PNG.png" tvg-id="", Alternative Radio
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png" tvg-id="", Best Suffle Dance
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765442/ei/omUWZrrIH9SHkucPwZ2syAk/ip/20.81.159.101/id/qWf-FPFmVw0.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118562/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7ZDEcZ85yeWUdQDZqmfrLRD2TPrITBKoAbzciL27rgpuz_BowWXTjtq/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYNDxbutN2B_Uck2YR3vRq0pKK2aO0w7G9hvUpLiRo8ACIQDdFYVTzkxa5mCCZN147-a1gf_Cn1A-Qjgnr4NbzaI_iQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", XDeep Club-Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - ...
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Chillout Lounge - Calm & Relaxing Background Music
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765444/ei/pGUWZvm0Cc-JkucP-4yLUA/ip/20.81.159.101/id/9UMxZofMNbA.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129847/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw-6rpj_SvBxfdxemCV2y-C6mIUTkdx9b8Cq-RStfd2bUwNr1ilrfg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgcnyFpd84evQHINTmWsEAhPYVGHLXrUpy-CWaOakrZ1oCIQD7uJ7pxjB8gdR8DoFsWzGQ83NCws8aRQtz6nPlTDyGpg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", PJ Masks
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
@@ -56,34 +56,34 @@ https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765447/ei/p2UWZv-8AtCkkucPk925WA/ip/20.81.159.101/id/flybomFYmEQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129847/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4jwqsNlcz8XCn3nl8NA7uiLhLSdEFdHRgn31viOUor8iJoWvyycXOiN/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIpvCQYVVfytnFjOYQf4SVF1SSE2wJTvnmDx4L9xp8IEAiBSm7rnkbfeMfmBpPhVA-0J57wr3BuDrkzVy1OiLrk4HQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765447/ei/p2UWZvzcIJKckucPhMWK-AM/ip/20.81.159.101/id/1Qj-NvcTd3Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51138683/txs/51138683%2C51138684%2C51138685%2C51138686%2C51138687/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f9DGrJ3PowDVpty1ajccmux-IGMTgyBhIdUCjsJYG_UQPWWu7OUyk-VE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbscispUW3JrguTP7v33jVBFHiy6Xv3SGqk8OlDEuV60CIDgbP5cigyfqchgFm7c8_nxisjY311zxtQk2Tc6ownjO/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765448/ei/qGUWZselDK-ekucP95m_-AM/ip/20.81.159.101/id/a1KnvfZ6CxE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxK9f_dBkkLNhgo6lOdqEZFd94FmTBO2XGR8SXXl_gDwrxu2zBPr2Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPDLOBq-vE0z2gapALvwvNtRyxNYcEaqEt9pciiQq1myAiEAgftYSK3rC7Bg128Ui3sDNQWAgvV_sdGC1oKwxfBQaic%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765448/ei/qGUWZszwLf6pkucPtdWacA/ip/20.81.159.101/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f42Rj1Hd3EkWPR5jKITydbjZCcR079kN2Rcm5_pjTBv0TAirOWE01YDd/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKgb4D1KFKlPan777feVrnqlA1UCwOt6DK6Sa9Aln1a9AiA_B6E0ZWmavDP0XhG9gUzZ7F1mc7rj3X074QdZz-Yknw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Anjunadeep Radio - Deep House, Chill, House, Progressive
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765449/ei/qWUWZs-tEdKfkucPmMS6-AM/ip/20.81.159.101/id/D4MdHQOILdw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxb_MRXqA0GfiZkFi5fi2-gFCxcPGZBoIXB9mmpzWHfO5ksL0JUsWg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgEvo4dV0Kx9EsYgC31kbiDWDWBJ_aIVRI3e7uCe46JFcCIAf285koazIRUv9LgXTUvq1CxFMQAVJo-zrjVEgAsVE0/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Anjunadeep Radio - Trance and Progressive
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765449/ei/qWUWZqqlM82dkucPus6A-AM/ip/20.81.159.101/id/IvuwTft-0cM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fztzpW4O1F1YMaByS2-kTDGl19qOz2cDnVl_wODwBH2rUnLzDKiGpXSg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIc0is4tOmWE-wJ1R6XwuO_I8JB4p67NzSARPMGi4aoSAiBBbdxpAe-EKIWkKu6nej4gGYi8dNdKo08Rdo5SATbcXQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Uplifting Trance Radio
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765451/ei/q2UWZuGEIaiGkucP_LWf0A8/ip/20.81.159.101/id/WYetg3AuLE4.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw0FhY01cvrJROUcwvr6QFkHzLMP05kURvR8stBr_siXssdCTIoK75Ev/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALk_4fiuczEcFQP4mNmRch2i8wFLbQ-iyDFUCodimqHSAiBFcYqugJKM2KEUG6HOlsAQmv_sHf3j0rjX3WeePr-hog%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Euphoric & Uplifting Trance Radio
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Vocal Trance Radio
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765452/ei/rGUWZoncFOmekucPkPS52AM/ip/20.81.159.101/id/DPXQG8S9Xwc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51138686/txs/51138683%2C51138684%2C51138685%2C51138686%2C51138687/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5poMfz6gs-3RonZo0iLwtgdNhn-PvgDT515kc8_uVjpspnVBk0zKA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMVjArcLSy1iQfSuEakWWeO7RYTOKgJ18Pbsr7SKm5SEAiEA8R4gGjAnpVfQqFufoJ58pBh735jhx_cnBR90yte8JvY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Chill Radio
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
@@ -95,7 +95,7 @@ https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", The Good Life Radio - Best Relax House, Chillout, Study, Running, Gym, Happy Music
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765455/ei/r2UWZtztFqWAkucPr66i4AU/ip/20.81.159.101/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5rQmV23kE0sfMXG3nrZvHaATKsSSYIsKx6QR-WhjZI3Fms4tOgtMkx1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALaNr-KpdGmBoEDXUFRzkHpjl4k-iKhnvrdjuDPNKmDvAiBI26SR6WsYIify6hZNl7Ul64xC7LMSX38xc4zya8ErNQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", HQ - Bass Music :speaker:CAR BASS MUSIC 2021 :fire: BEST EDM, BOUNCE, ELECTRO HOUSE 2021
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
@@ -119,37 +119,37 @@ https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Kitten Academy Livestream
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765458/ei/smUWZriQH7OLkucPhYWHkAo/ip/20.81.159.101/id/R7vrbiDi0Tc.21/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f81yV0_QZK8qda3nyiRnCjmfqL_d76ge22r6EL6rFiDxX0SQ0SEKLQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI0tTgLQAT7S869PNtVTYz3d9ngTCsyy39hixqZghwCkAiEAmyjHf1Nz8DQYnF_kAckSiZuL_9sqQoDrKVMfsZFuaKA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGIymQGp3jRMECbTCBSRAUqi8sKbATpWowQG44CA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", LOFI MUSIC LIVE 24/7
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", WB Kids live
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765460/ei/tGUWZpfPD-2NkucPy4C92A8/ip/20.81.159.101/id/Gm0TaXAE4q4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f7LuaQoIfzRXvtkKeLAQ2TmwcybS4k97Dy0snz8_u6qK2TZ5Q76wF6kY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIga3UxvTkevo0ORMwe2DXTNHd3pWLlm7XhQrYzImX1SLgCICuji09Cd8epmYCAhDLbmZysT0Ai26SePYXH1ANVmJKx/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", DC Kids live
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Elysium Resort & Spa Live
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765461/ei/tWUWZvOBGemnkucPg7-9uA8/ip/20.81.159.101/id/V513W2TVk50.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4L8nuKeh3PD_ENwxR9VjphR3u-cMNJbETGCwmuJhmxooabciXTydqIO/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAISQVfRlHgvnSfDwiBAMbXoWBHymh1AEzB7SZas2rxJBAiEAucp3qUfDxt7ABilA2N-txQNsay28_JVlXU23u1lJXps%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Anjunadeep Radio - Deep House, Chill, House, Progressive
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765462/ei/tmUWZoGrAYyKkucPlOOBwA8/ip/20.81.159.101/id/D4MdHQOILdw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f18OPaqbCfIEiG80e8vpN898t1V97pJ835eCfA8wDRl-57f7Qkzx5g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIcsyHIYVH29S6D_Bsw2kAQQNdbXburnthIqsMAKAHfYCIQCUIXGBgbPkvLFcRq-kIvt5iVjnbwzJVECJ9KdB1oILZA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Anjunadeep Radio - Trance and Progressive
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765462/ei/tmUWZpfLJJSKkucPqNeUgA4/ip/20.81.159.101/id/IvuwTft-0cM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-ZI4yHn4Y93abcy3ChZBO9vXXjzcSKxaH9viNwwf6Vu65v-XiiEbw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgT2ftJ1YZu4OhxysDQ10h5Ae_1u04N6chIW5AeHNWQRYCIF3pYxwobi7BG-yOZLIMWCzm_iHOW-NGVfNcMZC6JbBo/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Uplifting Trance Radio
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765464/ei/uGUWZoW-CcikkucPwZimWA/ip/20.81.159.101/id/WYetg3AuLE4.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129847/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2KFKQqFPAgiguxoFfq_DaCbX2a3xGgftGefbOkz7zFYul218CKXOw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeIWfjD1Nu4vt9WSUvbLnRavBR-ZgjFiTkx9ZSFA8XGcCIQDqKIljtrnOcG1_vMGXSM-Lhx3YiyoJ6VnNdqsTAt9Q5g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Euphoric & Uplifting Trance Radio
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Vocal Trance Radio
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765464/ei/uGUWZpjUNs2gkucP1OqZgAQ/ip/20.81.159.101/id/DPXQG8S9Xwc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118564/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2ja6X8wPLKpShd6f8eQ4-J2I6Ng77Vi8Vzhl9sVu-ZSKZWcWbBg4w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgd7bjM6Mj7G6RpOri03-XcrGCsZKw4757-nkX6GkIw5ACIQDFKvdtoXZYd16kSOhH12Eu8fFR2b__w8XIwlB7jlg1Kg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", Chill Radio
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
@@ -161,7 +161,7 @@ https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", The Good Life Radio - Best Relax House, Chillout, Study, Running, Gym, Happy Music
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765467/ei/u2UWZsvLKq-IkucPzt2zgAo/ip/20.81.159.101/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2TmSABctnm2rr85DZBRjSSgwPR73f2ty0J9hD60zy9SjAhLV50KYH6x/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMD45i_tLnq10zQcuCkBzYWTBnhsKdIrAWWIYFKNc2ZEAiEAyFEfrrVcIShi4NH1ndt0089C60jbQp6bfp9xNitLznM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="" tvg-id="", HQ - Bass Music :speaker:CAR BASS MUSIC 2021 :fire: BEST EDM, BOUNCE, ELECTRO HOUSE 2021
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
@@ -212,7 +212,7 @@ https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="https://i.ytimg.com/vi/7tNtU5XFwrU/maxresdefault.jpg" tvg-id="", NCS Music
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712765475/ei/w2UWZqWBLbCLkucP5oWn6A8/ip/20.81.159.101/id/7tNtU5XFwrU.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118562/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0IGrDRAA2jmatrelSor0sFrS71MrxN1dIorY_fsaabX0iOJ9BIuGw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPl5Xoxp6Ocr74ePJrnWwjNiap-ZpSL-suJgnWvqP3d8CIQDEbbAjqCoBauHaV1AuMZPRhXrwnq3Hfo_SagiOJPrkwg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="▶️ Live Youtube" tvg-logo="https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault.jpg" tvg-id="", Lofi Girl
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
